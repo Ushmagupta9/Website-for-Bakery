@@ -1,0 +1,103 @@
+.topContainer{
+    background-color: #FEE3EC;
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+#bakeryLogo{
+    margin-top: 0px;
+    width: 150px;
+    height: 150px;
+}
+h1{
+    color: #66BFBF;
+    font-size: 6rem;
+    margin: 0px auto 0px auto;
+   font-family: 'Sacramento',cursive;
+}
+h2{
+    color: #66BFBF;
+    font-size: 2.3rem;
+    margin-top: 0px;
+    font-family: 'Montserrat',san-serif;
+}
+h3{
+    color: #66BFBF;
+    font-family: 'Montserrat',san-serif;
+}
+#intropara{
+    display: block;
+    color: #F2789F;
+    text-align: center;
+    font-size: 40px;
+    margin: auto;
+    font-family: 'Sacramento',cursive;
+}
+.bakeryaboutus{
+    background-color: #fff7d4;
+    margin: auto;
+}
+.contact{
+    
+    background-color: #e3f3fe;
+}
+.footer{
+    background-color: #525252;
+    color: aliceblue;
+    margin: 20px 0px 10px 0px;
+}
+form{
+    align-items: center;
+}
+.thirdcont{
+   background-color: rgb(204, 255, 215);
+   margin: auto;
+}
+a{
+    text-decoration: none;
+    color: #66BFBF;
+}
+a:hover{
+    color:rgb(208, 205, 255)
+}
+.btn {
+    
+    font-family: 'Montserrat',san-serif;
+    color: #66BFBF;
+    text-decoration: none;
+  }
+  
+  .btn:hover{
+    color:rgb(208, 205, 255);
+    text-decoration: none;
+    
+  }
+  .contact-me{
+    
+        background-color: #ffd7ff;
+        margin: auto;
+        
+    
+  }
+  .bottomContainer{
+    background-color: #9dd3e0;
+    padding: 50px 0 20px;
+    padding: 50px 0 28px;
+    text-align: center;
+}
+.footer-link{
+    color: #11999e ;
+    font-family: 'Montserrat',san-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: rgb(255, 244, 227);
+    text-decoration: none;
+}
+.menuitems{
+    height: 100px;
+    width: 200px
+}
+ 
